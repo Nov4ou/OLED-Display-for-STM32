@@ -1,0 +1,3 @@
+/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/cmake-build-debug/CMakeFiles/OLED_Display_for_STM32.elf.dir
+/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/cmake-build-debug/CMakeFiles/rebuild_cache.dir
