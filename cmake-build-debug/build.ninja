@@ -53,7 +53,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/gpio.c.obj: C_COMPILER_
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/gpio.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -63,7 +63,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/main.c.obj: C_COMPILER_
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/main.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -73,7 +73,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/spi.c.obj: C_COMPILER__
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/spi.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -83,7 +83,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/stm32l4xx_hal_msp.c.obj
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/stm32l4xx_hal_msp.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -93,7 +93,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/stm32l4xx_it.c.obj: C_C
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/stm32l4xx_it.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -103,7 +103,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/syscalls.c.obj: C_COMPI
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/syscalls.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -113,7 +113,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/sysmem.c.obj: C_COMPILE
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/sysmem.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -123,7 +123,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/system_stm32l4xx.c.obj:
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/system_stm32l4xx.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -133,7 +133,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/usart.c.obj: C_COMPILER
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/usart.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -143,9 +143,19 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Startup/startup_stm32l432kc
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Startup/startup_stm32l432kcux.s.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -x assembler-with-cpp -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Startup
+  TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
+  TARGET_PDB = OLED_Display_for_STM32.elf.pdb
+
+build CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/User/OLED/oled.c.obj: C_COMPILER__OLED_Display_for_STM32.2eelf_unscanned_Debug /Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED/oled.c || cmake_object_order_depends_target_OLED_Display_for_STM32.elf
+  DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
+  DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/User/OLED/oled.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
+  OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
+  OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/User/OLED
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
   TARGET_PDB = OLED_Display_for_STM32.elf.pdb
 
@@ -153,7 +163,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -163,7 +173,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -173,7 +183,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -183,7 +193,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -193,7 +203,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -203,7 +213,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -213,7 +223,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ex.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -223,7 +233,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ramfunc.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -233,7 +243,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -243,7 +253,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -253,7 +263,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -263,7 +273,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -273,7 +283,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -283,7 +293,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -293,7 +303,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -303,7 +313,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -313,7 +323,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi_ex.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -323,7 +333,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -333,7 +343,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -343,7 +353,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -353,7 +363,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   DEFINES = -DDEBUG -DSTM32L432xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
-  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include -I/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
   TARGET_COMPILE_PDB = CMakeFiles/OLED_Display_for_STM32.elf.dir/
@@ -367,7 +377,7 @@ build CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src
 #############################################
 # Link the executable OLED_Display_for_STM32.elf
 
-build OLED_Display_for_STM32.elf: C_EXECUTABLE_LINKER__OLED_Display_for_STM32.2eelf_Debug CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/gpio.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/main.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/spi.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/stm32l4xx_hal_msp.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/stm32l4xx_it.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/syscalls.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/sysmem.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/system_stm32l4xx.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/usart.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Startup/startup_stm32l432kcux.s.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ramfunc.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.c.obj
+build OLED_Display_for_STM32.elf: C_EXECUTABLE_LINKER__OLED_Display_for_STM32.2eelf_Debug CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/gpio.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/main.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/spi.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/stm32l4xx_hal_msp.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/stm32l4xx_it.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/syscalls.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/sysmem.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/system_stm32l4xx.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Src/usart.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/Startup/startup_stm32l432kcux.s.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Core/User/OLED/oled.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ramfunc.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj CMakeFiles/OLED_Display_for_STM32.elf.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.c.obj
   FLAGS = -g
   LINK_FLAGS = -Wl,-gc-sections,--print-memory-usage,-Map=/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/cmake-build-debug/OLED_Display_for_STM32.map -mcpu=cortex-m4 -mthumb -mthumb-interwork -T /Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/STM32L432KCUX_FLASH.ld
   OBJECT_DIR = CMakeFiles/OLED_Display_for_STM32.elf.dir

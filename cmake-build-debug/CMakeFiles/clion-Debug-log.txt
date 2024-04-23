@@ -14,6 +14,6 @@
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Minimal optimization, debug info included
--- Configuring done (5.8s)
+-- Configuring done (5.5s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/cmake-build-debug

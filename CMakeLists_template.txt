@@ -49,6 +49,7 @@ else ()
 endif ()
 
 include_directories(${includes})
+include_directories(Core/User/OLED)
 
 add_definitions(${defines})
 

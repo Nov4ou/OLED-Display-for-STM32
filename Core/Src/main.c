@@ -24,7 +24,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "oled.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -90,7 +90,10 @@ int main(void)
   MX_SPI1_Init();
   MX_USART2_UART_Init();
   /* USER CODE BEGIN 2 */
-
+  OLED_Init();
+  OLED_Clear(0);
+  OLED_Set_Pixel(120, 10, 1);
+  OLED_Display();
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -101,8 +104,6 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
     HAL_GPIO_TogglePin(LD3_GPIO_Port, LD3_Pin);
-    fdafdasfa
-    fsdafdsafasd
     HAL_Delay(500);
   }
   /* USER CODE END 3 */
