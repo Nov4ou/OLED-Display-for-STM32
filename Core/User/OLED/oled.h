@@ -41,4 +41,8 @@ void OLED_Set_Pixel(uint8_t x, uint8_t y, uint8_t color);
 void OLED_Display(void);
 void OLED_Clear(uint8_t data);
 
+void OLED_DrawPoint(uint8_t x, uint8_t y, uint8_t color);
+void OLED_ShowChar(uint8_t x, uint8_t y, uint8_t chr, uint8_t Size, uint8_t mode);
+void OLED_ShowString(uint8_t x, uint8_t y, uint8_t *chr, uint8_t Char_Size, uint8_t mode);
+
 #endif //OLED_DISPLAY_FOR_STM32_OLED_H
