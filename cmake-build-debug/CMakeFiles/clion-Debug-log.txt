@@ -1,5 +1,5 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32 -B /Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/cmake-build-debug
 -- Minimal optimization, debug info included
--- Configuring done (0.1s)
+-- Configuring done (0.5s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/cmake-build-debug

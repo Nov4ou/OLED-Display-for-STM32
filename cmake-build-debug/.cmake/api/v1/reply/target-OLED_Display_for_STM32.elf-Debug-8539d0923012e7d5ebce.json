@@ -28,13 +28,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 64,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 60,
+				"line" : 65,
 				"parent" : 0
 			},
 			{
@@ -47,6 +41,12 @@
 				"command" : 1,
 				"file" : 0,
 				"line" : 62,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 63,
 				"parent" : 0
 			},
 			{
@@ -76,13 +76,19 @@
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 54,
+				"line" : 55,
 				"parent" : 0
 			},
 			{
 				"command" : 4,
 				"file" : 0,
 				"line" : 52,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 53,
 				"parent" : 0
 			}
 		]
@@ -168,6 +174,10 @@
 				{
 					"backtrace" : 10,
 					"path" : "/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED"
 				}
 			],
 			"language" : "C",
@@ -190,9 +200,7 @@
 				13,
 				14,
 				15,
-				92,
-				93,
-				94,
+				18,
 				95,
 				96,
 				97,
@@ -210,7 +218,10 @@
 				109,
 				110,
 				111,
-				112
+				112,
+				113,
+				114,
+				115
 			]
 		},
 		{
@@ -300,6 +311,10 @@
 				{
 					"backtrace" : 10,
 					"path" : "/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Drivers/CMSIS/Include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/nov4ou/GitHub_Projects/OLED_Display_for_STM32/Core/User/OLED"
 				}
 			],
 			"language" : "ASM",
@@ -371,16 +386,17 @@
 				0,
 				16,
 				17,
-				18,
-				19,
-				23,
-				24,
-				49,
-				50,
-				51,
+				20,
+				21,
+				22,
+				26,
+				27,
 				52,
-				91,
-				113
+				53,
+				54,
+				55,
+				94,
+				116
 			]
 		},
 		{
@@ -393,12 +409,10 @@
 				4,
 				5,
 				6,
-				20,
-				21,
-				22,
+				19,
+				23,
+				24,
 				25,
-				26,
-				27,
 				28,
 				29,
 				30,
@@ -420,9 +434,9 @@
 				46,
 				47,
 				48,
-				53,
-				54,
-				55,
+				49,
+				50,
+				51,
 				56,
 				57,
 				58,
@@ -457,7 +471,10 @@
 				87,
 				88,
 				89,
-				90
+				90,
+				91,
+				92,
+				93
 			]
 		},
 		{
@@ -473,9 +490,7 @@
 				13,
 				14,
 				15,
-				92,
-				93,
-				94,
+				18,
 				95,
 				96,
 				97,
@@ -493,7 +508,10 @@
 				109,
 				110,
 				111,
-				112
+				112,
+				113,
+				114,
+				115
 			]
 		}
 	],
@@ -593,6 +611,22 @@
 			"compileGroupIndex" : 1,
 			"path" : "Core/Startup/startup_stm32l432kcux.s",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/User/.DS_Store",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Core/User/OLED/oled.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Core/User/OLED/oled.h",
+			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
